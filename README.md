@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brenan2000
+- 👀 I’m interested in automation, cloud technologies, machine learning and data science
+- 🌱 I’m currently learning python automation
+- 💞️ I’m looking to collaborate on Microsoft Power Platform, Python, and R
